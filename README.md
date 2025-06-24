@@ -1,60 +1,106 @@
-<h1 align="center">Salut, moi c'est Amboara 👋</h1>
-<h3 align="center">🚀 Développeur IA & Fullstack JavaScript | 🎨 Apprenti Designer</h3>
+<h1 align="center">👋 Hello, je suis <span style="color:#F24E1E">Amboara</span></h1>
+<h3 align="center">🧠 Développeur IA & Fullstack TypeScript — 🎨 Designer émergent</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00FF9F&center=true&vCenter=true&width=435&lines=Coder+l'IA+avec+du+style.;Créer+du+web+immersif.;Dessiner+du+futur+numérique.;Toujours+curieux%2C+toujours+créatif." alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 À propos de moi
+### 👨‍💻 Qui suis-je ?
 
-```js
-const amboara = {
-  username: "Amboara",
-  roles: ["Développeur Fullstack JS", "Développeur IA", "Designer en herbe"],
-  stack: ["JavaScript", "Python", "TypeScript", "HTML/CSS"],
-  frameworks: ["React", "Next.js", "Node.js", "Express", "TensorFlow", "PyTorch"],
-  design: ["Figma", "Adobe XD", "Canva"],
-  softSkills: ["Créativité", "Résolution de problèmes", "Curiosité"],
-  learning: ["Three.js", "WebGL", "UX avancé"],
-  funFact: "Je code souvent avec de la lo-fi et du thé 🍵"
-}
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKPdUkkb5A8PzXW/giphy.gif" width="220" />
+</p>
 
+<p>
+Développeur IA & fullstack avec une passion pour les interfaces interactives, les IA génératives, et les vibes lo-fi 🌿.<br/>
+Je m’exprime avec <b>TypeScript</b>, <b>Python</b> et <b>React</b> — et j’esquisse l’expérience utilisateur avec <b>Figma</b> et des idées libres ✏️.
+</p>
 
-🛠️ Technologies & outils
-<p align="left"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" /> <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff" /> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff" /> <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?logo=adobe-xd&logoColor=fff" /> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" /> </p>
-🧠 Compétences IA & Algorithmes
-🤖 Machine Learning / Deep Learning : CNN, LSTM, Transformers
+---
 
-🔍 NLP, Vision par ordinateur, IA générative
+### 🛠️ Stack & outils préférés
 
-🧮 Algo : Dijkstra, A*, Tri rapides, Graphes, Récursivité
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,express,tailwind,figma,xd,vscode,git,tensorflow,pytorch" />
+</p>
 
-🧠 Frameworks : TensorFlow, Keras, Scikit-learn, PyTorch
+---
 
-📈 Analyse de données & modélisation avec Pandas, Matplotlib, NumPy
+### 🟢 Compétences IA & Algo
 
-📊 Statistiques GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Amboara&show_icons=true&theme=radical" alt="Stats GitHub" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amboara&layout=compact&theme=radical" /> </p>
-🎨 Créativité, Design & Animations
-<p align="center"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" /> <br /> <em>“Le design, c’est du code qui se sent beau.” – Amboara ✨</em> </p>
-📫 Me contacter
-<p> <a href="mailto:amboara.dev@gmail.com"> <img src="https://img.shields.io/badge/email-amboara.dev@gmail.com-red?style=flat&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/tonprofil" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /> </a> <a href="https://tonsite.dev" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Online-success?logo=web&style=flat" /> </a> </p>
-🚀 En cours de développement
-🧠 Agent IA personnel : “CoDev.AI”
+<p align="left">
+  <img src="https://img.shields.io/badge/-🧠%20Deep%20Learning-0d1117?style=flat-square&logo=OpenAI&logoColor=white&labelColor=0d1117&color=00ff88" />
+  <img src="https://img.shields.io/badge/-🤖%20IA%20Générative-0d1117?style=flat-square&logo=pytorch&logoColor=white&color=ff4ecd" />
+  <img src="https://img.shields.io/badge/-🔍%20Computer%20Vision-0d1117?style=flat-square&logo=opencv&logoColor=white&color=00d4ff" />
+  <img src="https://img.shields.io/badge/-📐%20Algorithmes-0d1117?style=flat-square&logo=python&logoColor=white&color=ffbd44" />
+</p>
 
-🌐 Portfolio interactif 3D (Three.js / WebGL)
+<ul>
+  <li>✨ <strong>DL/ML</strong> : CNN, Transformers, GANs, LSTM</li>
+  <li>📊 <strong>Data Science</strong> : Pandas, NumPy, Matplotlib</li>
+  <li>🧠 <strong>Algo</strong> : A*, Dijkstra, Graphes, Récursivité</li>
+</ul>
 
-🎮 Mini-jeux éducatifs JavaScript
+---
 
-✨ UI kit open-source inspiré de la nature
+### 🎨 Créativité & Design
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="260"/>
+  <br />
+  <em>“L’interface, c’est l’âme du code qui s’exprime visuellement.”</em>
+</p>
+
+---
+
+### 🟢 Projets en cours
+
+<ul>
+  <li> <img src="https://media.giphy.com/media/xUOxf48qIbs8gRXeD6/giphy.gif" width="14" alt="green pulse"/> <b>CoDev.AI</b> — agent IA pour devs créatifs</li>
+  <li> <img src="https://media.giphy.com/media/xUOxf48qIbs8gRXeD6/giphy.gif" width="14" alt="green pulse"/> UI Kit minimaliste & vivant (inspiré nature)</li>
+  <li> <img src="https://media.giphy.com/media/xUOxf48qIbs8gRXeD6/giphy.gif" width="14" alt="green pulse"/> Mini-jeux JavaScript pédagogiques</li>
+</ul>
+
+---
+
+### 🌱 Activité visuelle animée
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amboara&theme=react-dark&hide_border=true&area=true" alt="Graphique d'activité" width="85%" />
+</p>
+
+> *✨ Un profil vivant, c’est un profil qui code, apprend, partage… et respire.*
+
+---
+
+### 📫 Me contacter
+
+<p align="center">
+  <a href="mailto:amboara.dev@gmail.com">
+    <img src="https://img.shields.io/badge/email-amboara.dev@gmail.com-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tonprofil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amboara-blue?logo=linkedin&style=flat" />
+  </a>
+  <a href="https://amboara.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Online-success?logo=web&style=flat" />
+  </a>
+</p>
+
+---
+
+### 🔥 Signature SVG (statique)
+
+<p align="center">
 <svg width="100%" height="100">
-  <text x="0" y="50" font-size="28" fill="none" stroke="#F24E1E" stroke-width="1" stroke-dasharray="1000" stroke-dashoffset="1000">
+  <text x="0" y="50" font-size="28" fill="none" stroke="#F24E1E" stroke-width="1" stroke-dasharray="1000" stroke-dashoffset="0">
     Hello from Amboara 👋
-    <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="4s" fill="freeze" />
   </text>
 </svg>
+</p>
 
-<p align="center"> Merci pour la visite ! 🌟 Suis-moi pour plus de projets IA, JS & design. </p> ```
+<p align="center"> 🌐 Merci d’être passé·e ! Suis-moi pour voir jusqu’où design et IA peuvent se rencontrer. </p>
+
+
