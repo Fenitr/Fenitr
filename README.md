@@ -81,7 +81,6 @@ Je m’exprime avec <b>TypeScript</b>, <b>Python</b> et <b>React</b> — et j’
 </p>
 
 ---
-
 ### 🔥 Signature SVG (statique)
 
 <p align="center">
