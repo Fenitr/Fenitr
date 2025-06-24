@@ -2,8 +2,9 @@
 <h3 align="center">🧠 Développeur IA & Fullstack TypeScript — 🎨 Designer émergent</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00FF9F&center=true&vCenter=true&width=435&lines=Coder+l'IA+avec+du+style.;Créer+du+web+immersif.;Dessiner+du+futur+numérique.;Toujours+curieux%2C+toujours+créatif." alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/ton-nouveau-gif.gif" alt="Animation" width="435" />
 </p>
+
 
 ---
 
@@ -40,7 +41,6 @@ Je m’exprime avec <b>TypeScript</b>, <b>Python</b> et <b>React</b> — et j’
 <ul>
   <li>✨ <strong>DL/ML</strong> : CNN, Transformers, GANs, LSTM</li>
   <li>📊 <strong>Data Science</strong> : Pandas, NumPy, Matplotlib</li>
-  <li>🧠 <strong>Algo</strong> : A*, Dijkstra, Graphes, Récursivité</li>
 </ul>
 
 ---
@@ -58,20 +58,11 @@ Je m’exprime avec <b>TypeScript</b>, <b>Python</b> et <b>React</b> — et j’
 ### 🟢 Projets en cours
 
 <ul>
-  <li> <img src="https://media.giphy.com/media/xUOxf48qIbs8gRXeD6/giphy.gif" width="14" alt="green pulse"/> <b>CoDev.AI</b> — agent IA pour devs créatifs</li>
-  <li> <img src="https://media.giphy.com/media/xUOxf48qIbs8gRXeD6/giphy.gif" width="14" alt="green pulse"/> UI Kit minimaliste & vivant (inspiré nature)</li>
-  <li> <img src="https://media.giphy.com/media/xUOxf48qIbs8gRXeD6/giphy.gif" width="14" alt="green pulse"/> Mini-jeux JavaScript pédagogiques</li>
+  <li>🟢 <b>CoDev.AI</b> — agent IA pour devs créatifs</li>
+  <li>🟢 UI Kit minimaliste & vivant (inspiré nature)</li>
+  <li>🟢 Mini-jeux JavaScript pédagogiques</li>
+  <li>...</li>
 </ul>
-
----
-
-### 🌱 Activité visuelle animée
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amboara&theme=react-dark&hide_border=true&area=true" alt="Graphique d'activité" width="85%" />
-</p>
-
-> *✨ Un profil vivant, c’est un profil qui code, apprend, partage… et respire.*
 
 ---
 
@@ -102,5 +93,3 @@ Je m’exprime avec <b>TypeScript</b>, <b>Python</b> et <b>React</b> — et j’
 </p>
 
 <p align="center"> 🌐 Merci d’être passé·e ! Suis-moi pour voir jusqu’où design et IA peuvent se rencontrer. </p>
-
-
