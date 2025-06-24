@@ -21,7 +21,7 @@ Je m’exprime avec <b>TypeScript</b>, <b>Python</b> et <b>React</b> — et j’
 
 ---
 
-### 🛠️ Stack & outils préférés
+### 🛠️ Stack & outils utilisés
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,express,tailwind,figma,xd,vscode,git,tensorflow,pytorch" />
