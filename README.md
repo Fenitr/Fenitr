@@ -5,7 +5,6 @@
   <img src="https://media.giphy.com/media/ton-nouveau-gif.gif" alt="Animation" width="435" />
 </p>
 
-
 ---
 
 ### 👨‍💻 Qui suis-je ?
@@ -24,8 +23,15 @@ Je m’exprime avec <b>TypeScript</b>, <b>Python</b> et <b>React</b> — et j’
 ### 🛠️ Stack & outils utilisés
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,express,tailwind,figma,xd,vscode,git,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,express,flask,strapi,tailwind,figma,xd,vscode,git,tensorflow,pytorch,mysql,postgresql,sqlite,docker" />
 </p>
+
+<ul>
+  <li>🧩 <strong>Back-end/API</strong> : Express.js, Flask, Strapi</li>
+  <li>🗃️ <strong>Bases de données</strong> : MySQL, PostgreSQL, SQLite</li>
+  <li>📦 <strong>Outils Dev</strong> : Docker, Postman, Vercel</li>
+  <li>🎨 <strong>UI/UX</strong> : Figma, Adobe XD</li>
+</ul>
 
 ---
 
@@ -70,7 +76,7 @@ Je m’exprime avec <b>TypeScript</b>, <b>Python</b> et <b>React</b> — et j’
 ### 📫 Me contacter
 
 <p align="center">
-  <a href="mailto:amboara.dev@gmail.com">
+  <a href="mailto:fenitriniavo22.aps1a@gmail.com">
     <img src="https://img.shields.io/badge/email-amboara.dev@gmail.com-red?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/tonprofil" target="_blank">
@@ -82,6 +88,7 @@ Je m’exprime avec <b>TypeScript</b>, <b>Python</b> et <b>React</b> — et j’
 </p>
 
 ---
+
 ### 🔥 Signature SVG (statique)
 
 <p align="center">
