@@ -66,8 +66,7 @@ Je m’exprime avec <b>TypeScript</b>, <b>Python</b> et <b>React</b> — et j’
 <ul>
   <li>🟢 <b>CoDev.AI</b> — agent IA pour devs créatifs</li>
   <li>🟢 UI Kit minimaliste & vivant (inspiré nature)</li>
-  <li>🟢 DevTools: Commit-coacg</li>
-  <li>🟢 Des projets en Typescript</li>
+  <li>🟢 DevTools: Commit-coach</li>
   <li>🟢 IA en python pour approfondir le ML et DL</li>
 </ul>
 
