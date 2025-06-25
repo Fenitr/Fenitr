@@ -14,7 +14,7 @@
 </p>
 
 <p>
-Développeur IA & fullstack avec une passion pour les interfaces interactives, les IA génératives, et les vibes lo-fi 🌿.<br/>
+Développeur IA & fullstack avec une passion pour les interfaces interactives, les IA et les vibes lo-fi 🌿.<br/>
 Je m’exprime avec <b>TypeScript</b>, <b>Python</b> et <b>React</b> — et j’esquisse l’expérience utilisateur avec <b>Figma</b> et des idées libres ✏️.
 </p>
 
