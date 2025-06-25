@@ -89,7 +89,7 @@ Je m’exprime avec <b>TypeScript</b>, <b>Python</b> et <b>React</b> — et j’
 
 ---
 
-### 🔥 Signature SVG (statique)
+### 🫰 Thanks
 
 <p align="center">
 <svg width="100%" height="100">
