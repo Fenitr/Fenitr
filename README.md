@@ -29,7 +29,7 @@ Je m’exprime avec <b>TypeScript</b>, <b>Python</b> et <b>React</b> — et j’
 <ul>
   <li>🧩 <strong>Back-end/API</strong> : Express.js, Flask API, Nest, Strapi</li>
   <li>🗃️ <strong>Bases de données</strong> : MySQL, PostgreSQL, SQLite</li>
-  <li>📦 <strong>Outils Dev</strong> : Docker, Postman, Vercel</li>
+  <li>📦 <strong>Outils Dev</strong> : Docker, Postman, Guthub, Vercel ...</li>
   <li>🎨 <strong>UI/UX</strong> : Figma, Adobe XD</li>
 </ul>
 
